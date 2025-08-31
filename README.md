@@ -18,8 +18,6 @@ Second, to further guide the spatial deformation, we incorporate an auxiliary ta
 Accordingly, we introduce a dual-stream image-mask decoder (DSIMD) that jointly produces intermediate enhanced images and masks of enhanced tumors.
 Results on two public datasets demonstrate that D3M outperforms existing methods in CEMRI synthesis.
 
-# 🚧 Repository Update in Progress 🚧  
-
 ## Dataset
 
 BraSyn: https://www.synapse.org/Synapse:syn53708249/wiki/627507

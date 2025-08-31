@@ -2,3 +2,5 @@
 *.iml
 *.nii
 .idea
+/experiments/
+/dataset/
